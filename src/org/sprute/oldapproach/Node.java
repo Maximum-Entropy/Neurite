@@ -1,3 +1,4 @@
+package org.sprute.oldapproach;
 
 public interface Node {
 

@@ -1,3 +1,4 @@
+package org.sprute.oldapproach;
 
 public class Move implements Node {
 
@@ -25,7 +26,7 @@ public class Move implements Node {
 		}
 
 		System.out.println("Moved " + option);
-		Main.updateDisplay();
+		OldMain.updateDisplay();
 		return nextPort;
 	}
 

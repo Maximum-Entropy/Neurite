@@ -1,5 +1,6 @@
+package org.sprute.oldapproach;
 
-public class Main {
+public class OldMain {
 
 	private static DisplayPanel display;
 	private static int frame;

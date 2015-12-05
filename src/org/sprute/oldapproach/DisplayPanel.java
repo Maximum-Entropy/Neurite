@@ -1,3 +1,5 @@
+package org.sprute.oldapproach;
+
 import java.awt.Color;
 import java.awt.Dimension;
 import java.awt.Graphics;

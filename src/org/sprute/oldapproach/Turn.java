@@ -1,3 +1,4 @@
+package org.sprute.oldapproach;
 
 public class Turn implements Node {
 
@@ -19,7 +20,7 @@ public class Turn implements Node {
 		}
 
 		System.out.println("Turned " + option);
-		Main.updateDisplay();
+		OldMain.updateDisplay();
 		return nextPort;
 	}
 
